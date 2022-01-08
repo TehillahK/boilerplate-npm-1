@@ -1,7 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"version": "1.0.0",
-	"author": "Tehillah Kangamba",
+	"author": "Tehillah",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
